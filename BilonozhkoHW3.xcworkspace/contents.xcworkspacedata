@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Bilonozhko_HW3_3">
+   </FileRef>
+   <FileRef
+      location = "group:Bilonozhko_HW3_1.1">
+   </FileRef>
+   <FileRef
+      location = "group:Bilonozhko_HW3_2">
+   </FileRef>
+</Workspace>
